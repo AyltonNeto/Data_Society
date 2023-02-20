@@ -4,3 +4,5 @@ em um repositório público sem ser colaboradora. (Obs: Já sabia que não era, 
   Ao tentar adicionar, o gitHub sugere a criação do **_fork_** (Clonagem do repositório, sendo possível fazer alteração sem modificar o projeto principal)
 Para realizar alterações no principar, criamos então o _pull requests_.
 O autor recebe a notificação e aceita ou recusa a alteração.
+
+Sou Marina e estou testando a função fork e pull request.
